@@ -6,6 +6,7 @@ This github directory contains:
 - Data extraction of election results from Elections Canada (Python)
 - Transformation program to generate a geojson with the data and boundaries of the federal electoral districts (Python)
 - Javascript program to generate a display of the data on a website (using  mapbox and Leaflet)
+- Documentation created with Graph databases / Cypher. See *.png graphics for overbiew.
 
 The website itself is in:
 https://github.com/MichaelWStein/Website
